@@ -1,0 +1,4 @@
+Hello
+My name is Claire
+I am adding a new file to Hello Class
+Goodbye!
